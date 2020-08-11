@@ -1,0 +1,54 @@
+#cab {
+	background-color:#eee;
+	margin:0;
+	}
+
+#menu {
+	background-color:#eee;
+	margin:0;
+	}
+	
+.bandeiras {
+	float:right;
+	top:10px;
+	}
+
+.conteudo {
+	background-color:#eee;
+	margin:0;
+	padding:5px;
+	}
+
+.vazio {
+	background-color:#eee;
+	margin:0;
+	}
+
+.pequeno {
+	font-size:10px;
+	}
+
+p {
+	font-family:Verdana, Geneva, sans-serif;
+	}
+
+h2 {
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:16px;
+	}
+
+img {
+	float:left;
+	padding-right: 5px;
+	border:0;
+	}
+
+a {
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:16px;
+	text-decoration:none;
+	color:black;
+}
+a:hover {
+	text-decoration:underline;
+}

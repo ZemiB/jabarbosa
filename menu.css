@@ -1,0 +1,40 @@
+#menu ul {
+float:left;
+width:100%;
+list-style-type:none;
+padding:0;
+margin:0;
+border-bottom:1px solid black;
+}
+
+#menu li {
+display:inline;
+}
+
+#menu a {
+float:left;
+width:120px;
+padding:0 5px 0 5px;
+border-top:1px solid black;
+border-right:1px solid black;
+border-left:1px solid black;
+border-top-right-radius:10px;
+-webkit-border-top-right-radius:10px;
+-moz-border-top-right-radius:10px;
+}
+
+#menu a:hover {
+background-color:#DDD;
+color:#111;
+text-decoration:none;
+}
+
+#menu a:active {
+background-color:#CCC;
+text-decoration:none;
+}
+
+.active a {
+background-color:#DDD;
+text-decoration:none;
+}
